@@ -2,3 +2,4 @@ add feature-A
 I add a new line on feature-A,  and I checkout to master branch and checkoutback, and then I add this new msg to feature-A.Let us set what happend.
 Here now is feature-B branch, the branch is new added.
 Now I resolve the confident.
+add feature-C
