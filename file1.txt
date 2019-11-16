@@ -3,3 +3,4 @@ I add a new line on feature-A,  and I checkout to master branch and checkoutback
 Here now is feature-B branch, the branch is new added.
 Now I resolve the confident.
 add feature-C
+add feature-D
